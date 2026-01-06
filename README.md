@@ -1,2 +1,2 @@
 # Ctutorials
-Practicing C Tutorial
+Practicing C++
